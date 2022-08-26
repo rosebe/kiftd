@@ -4,13 +4,13 @@
 
 -------
 
-![主界面展示](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/kiftd-mainpage.png?raw=true)
+[![kiftd-mainpage](https://s1.ax1x.com/2022/08/24/vcfGuD.png)](https://kohgylw.gitee.io/)
 
 -------
 
 ## 快速导航
 * 访问kiftd官方主页来快速了解kiftd？ -- [kiftd官方主页](https://kohgylw.gitee.io/)
-* 国内托管地址——阿里云上的项目主页：https://code.aliyun.com/kohgylw/kiftd/tree/master -- [点击下载](https://code.aliyun.com/kohgylw/kiftd/repository/archive.zip?ref=master)
+* 国内托管地址——GitCode上的项目主页：https://gitcode.net/qq_25670227/kiftd -- [点击下载](https://gitcode.net/qq_25670227/kiftd/-/archive/master/kiftd-master.zip)
 * 国内托管地址——码云上的项目主页： https://gitee.com/kohgylw/kiftd -- [点击下载](https://gitee.com/kohgylw/kiftd/repository/archive/master.zip)
 * 国际托管地址——github上的项目主页： https://github.com/KOHGYLW/kiftd -- [点击下载](https://github.com/KOHGYLW/kiftd/archive/master.zip)
 
@@ -33,19 +33,19 @@ _注：kift为该功能的开发名称，其实际成果命名为kiftd。_
 -------
 
 ## kiftd有哪些优势？
- ![mark](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/mark_icon.png?raw=true) 无上传限制——不足1MB的文档和超过5GB的高清电影资源？均能够随意上传和下载。
+ [![mark-icon](https://s1.ax1x.com/2022/08/24/vcf08P.png)](https://kohgylw.gitee.io/) 无上传限制——不足1MB的文档和超过5GB的高清电影资源？均能够随意上传和下载。
 
- ![mark](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/mark_icon.png?raw=true) 主流商业网盘特有的高级功能甚至需要收费的功能——文件夹访问级别控制、视频在线影院、Word/PPT/TXT/PDF文档在线预览、音乐在线欣赏、图片库在线预览、WebDAV支持...kiftd均一一具备，每一份kiftd均是“完全版”。
+ [![mark-icon](https://s1.ax1x.com/2022/08/24/vcf08P.png)](https://kohgylw.gitee.io/) 主流商业网盘特有的高级功能甚至需要收费的功能——文件夹访问级别控制、视频在线影院、Word/PPT/TXT/PDF文档在线预览、音乐在线欣赏、图片库在线预览、WebDAV支持...kiftd均一一具备，每一份kiftd均是“完全版”。
 
- ![mark](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/mark_icon.png?raw=true) 操作系统全兼容——无论是Windows、Linux还是Unix(包括Mac OS X)，均可运行使用。
+ [![mark-icon](https://s1.ax1x.com/2022/08/24/vcf08P.png)](https://kohgylw.gitee.io/) 操作系统全兼容——无论是Windows、Linux还是Unix(包括Mac OS X)，均可运行使用。
 
- ![mark](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/mark_icon.png?raw=true) 支持移动端操作，即使没有数据线，手机、平板、电脑之间也能文件互传。
+ [![mark-icon](https://s1.ax1x.com/2022/08/24/vcf08P.png)](https://kohgylw.gitee.io/) 支持移动端操作，即使没有数据线，手机、平板、电脑之间也能文件互传。
 
- ![mark](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/mark_icon.png?raw=true) 同时满足日常需求or专业需求——kiftd同时具备了图形界面模式和纯命令模式的双操作模式，无论您是喜欢点击鼠标的电脑小白还是需要使用命令在远程Linux上部署的运维人员，均能完美操作。
+ [![mark-icon](https://s1.ax1x.com/2022/08/24/vcf08P.png)](https://kohgylw.gitee.io/) 同时满足日常需求or专业需求——kiftd同时具备了图形界面模式和纯命令模式的双操作模式，无论您是喜欢点击鼠标的电脑小白还是需要使用命令在远程Linux上部署的运维人员，均能完美操作。
 
- ![mark](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/mark_icon.png?raw=true) 无任何使用成本——kiftd完全开源免费，因此唯一的使用成本就是需要安装它。至于之后您想将其用于什么领域，哪怕是商业领域——均无任何限制。
+ [![mark-icon](https://s1.ax1x.com/2022/08/24/vcf08P.png)](https://kohgylw.gitee.io/) 无任何使用成本——kiftd完全开源免费，因此唯一的使用成本就是需要安装它。至于之后您想将其用于什么领域，哪怕是商业领域——均无任何限制。
 
- ![mark](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/mark_icon.png?raw=true) 无内置代码的隐患——kiftd完全开源，您可以随意下载其源代码，并用它自己编译一份kiftd；同时，它删除即走，绝不和你撒娇卖萌。保护用户硬件环境，从开源做起。
+ [![mark-icon](https://s1.ax1x.com/2022/08/24/vcf08P.png)](https://kohgylw.gitee.io/) 无内置代码的隐患——kiftd完全开源，您可以随意下载其源代码，并用它自己编译一份kiftd；同时，它删除即走，绝不和你撒娇卖萌。保护用户硬件环境，从开源做起。
 
 ## 总之，无论您是想：
 + 安装在自己的笔记本电脑上，用于替代老旧的U盘……
@@ -64,7 +64,7 @@ _注：kift为该功能的开发名称，其实际成果命名为kiftd。_
 
 ### 现在，您只需抽出3分钟时间，就可以立即体验这款专业快捷的网盘服务器了。
 
-* 马上下载本网盘服务器？请点击右上方绿色按钮“Clone or Download”，之后选择“Download ZIP”进行下载（Github）,也可以前往国内托管的下载地址： https://gitee.com/kohgylw/kiftd （码云）或 https://code.aliyun.com/kohgylw/kiftd/tree/master （阿里云）
+* 马上下载本网盘服务器？请点击右上方绿色按钮“Clone or Download”，之后选择“Download ZIP”进行下载（Github）,也可以前往国内托管的下载地址： https://gitee.com/kohgylw/kiftd （码云）或 https://gitcode.net/qq_25670227/kiftd （GitCode）
 * 想要开始使用？您应该从阅读《kiftd说明文档》开始，这是一份十分全面的官方介绍文档，简单易懂且图文并茂，相信您能很快学会它。想在线阅读？请直接点击上方文件列表中的《kiftd说明文档》来在线预览（该操作仅GitHub有效）
 * 立刻获取源代码？请访问本应用代码托管地址：https://github.com/KOHGYLW/kiftd-source （Github）
 * 使用中遇到问题？请将您的发现提交到 https://github.com/KOHGYLW/kiftd/issues (Github)
@@ -92,29 +92,30 @@ _本次更新大幅升级了底层框架，并加入了众多用户期待的新�
 ## Functional Examples
 
 ### 功能速览
->注：图中涉及资源均来源于网络，仅用于展示kiftd功能，版权归其作者所有。
+
+>注：图中涉及资源均来源于网络，仅用于展示kiftd功能，版权归其作者所有。技术支持： https://imgse.com/ 
 
 + 主页与基本功能展示……
 
-![MainPage](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/kiftd-mainpage.png?raw=true)
+[![kiftd-mainpage](https://s1.ax1x.com/2022/08/24/vcfGuD.png)](https://kohgylw.gitee.io/)
 
-![UploadFile](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/kiftd-upload2.png?raw=true)
+[![kiftd-upload2](https://s1.ax1x.com/2022/08/24/vcfDv8.png)](https://kohgylw.gitee.io/)
 
-![CreateFolder](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/kiftd-newfolder.png?raw=true)
+[![kiftd-newfolder](https://s1.ax1x.com/2022/08/24/vcfUUA.png)](https://kohgylw.gitee.io/)
 
 + 各种高级功能展示……
 
-![Vadio](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/vadio.png?raw=true)
+[![kiftd-vadio](https://s1.ax1x.com/2022/08/24/vcfyDg.png)](https://kohgylw.gitee.io/)
 
-![Audio](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/audio.png?raw=true)
+[![kiftd-audio](https://s1.ax1x.com/2022/08/24/vcf3jO.png)](https://kohgylw.gitee.io/)
 
-![Picture](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/kiftd-picture.png?raw=true)
+[![kiftd-picture](https://s1.ax1x.com/2022/08/24/vcfwCt.png)](https://kohgylw.gitee.io/)
 
-![PDF](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/pdf.png?raw=true)
+[![kiftd-pdf](https://s1.ax1x.com/2022/08/24/vcfgEj.png)](https://kohgylw.gitee.io/)
 
 + 人性化的服务器控制面板
 
-![UI](https://github.com/KOHGYLW/kiftd-showPicture/blob/master/kiftd-ui2.png?raw=true)
+[![kiftd-ui2](https://s1.ax1x.com/2022/08/24/vcfBgf.png)](https://kohgylw.gitee.io/)
 
 ### 想要了解更多功能？详见随程序附带的《kiftd说明文档》... 
 
